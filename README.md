@@ -1,1 +1,2 @@
-# My General open-source work
+# CarorDeV's Discord Bot Open Source Repository
+Guide on using it coming soon
