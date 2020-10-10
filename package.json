@@ -1,0 +1,34 @@
+{
+  "name": "carorbot-os",
+  "version": "1.0.0",
+  "description": "The CarorBot-OpenSource project.",
+  "main": "core.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node core.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarorDeV/carorbot-os.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "github",
+    "javascript",
+    "discord",
+    "bot"
+  ],
+  "author": "CarorDeV",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CarorDeV/carorbot-os/issues"
+  },
+  "homepage": "https://github.com/CarorDeV/carorbot-os#readme",
+  "dependencies": {
+    "discordbot-script": "^1.7.0"
+  }
+}
