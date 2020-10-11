@@ -29,6 +29,8 @@
   },
   "homepage": "https://github.com/CarorDeV/carorbot-os#readme",
   "dependencies": {
-    "discordbot-script": "^1.7.0"
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "discord.js-commando": "github:discordjs/Commando"
   }
 }
