@@ -1,2 +1,3 @@
 # CarorDeV's Discord Bot Open Source Repository
-Guide on using it coming soon
+We are approved by JetBrains. 
+## Setup
