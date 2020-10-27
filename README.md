@@ -2,12 +2,13 @@
 We reccomend using JetBrains IDEs but idk websyorm doesnt have require function so lol
 ## Setup
 
-####Requires:
+#### Requires:
 - node.js and npm
 - smth like vsc or idea ultimate but can be notebook
 - Windows 10
-- git
-####Setup (finally ik) 
+- git 
+
+#### Setup (finally ik) 
 1. Fork this repo
 2. Get Visual Studio Code or Idea Ultimate or it can be even notebook but idk
 3. Open PowerShell
